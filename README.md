@@ -23,7 +23,7 @@
 - 🧩 Puzzle and Board games
 
 I've tried a bit of everything ... dancing, cooking and art. 
-But now I'm all in for coding** **It's my chosen path, and I'm excited to see
+But now I'm all in for coding **It's my chosen path, and I'm excited to see
 where it takes me!**
 
 
