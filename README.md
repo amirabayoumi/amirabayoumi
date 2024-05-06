@@ -1,15 +1,18 @@
 # Hi there 👋, I'm Amira Bayoumi
 ## A passionate full stack development student
 
+
+
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" height="220" alt="streak graph"  />
 </div>
 
 
+### Feel free to explore my portfolio website to learn more about me, my projects and skills.
+**You can access it [here](https://amirabayoumi.github.io/).**
 
-
-
-
+--------------------------------------------------------------------------
 
 
 ## About Me
@@ -49,6 +52,4 @@ where it takes me!**
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 
 
-**Feel free to explore my portfolio website to learn more about my projects and skills.**
 
-You can access it [here](https://amirabayoumi.github.io/). 
