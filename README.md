@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Amira Bayoumi
-## A passionate full stack development student
+##  Junior Full Stack Developer
 
 
 
@@ -18,8 +18,9 @@
 ## About Me
 
 - 🌍 Location: Antwerp,BE.
-- 🏫 Education: BSc in Geophysics.
-- 🎓 Learning full stack development.
+- 🏫 Education:
+   - 🎓 BSc in Geophysics.
+   - 🎓 full stack development Diploma.
 
 ## Interests
 
